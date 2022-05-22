@@ -1,6 +1,10 @@
 # spec/factories.rb
 
 FactoryBot.define do
+  factory :account do
+    name { "MyString" }
+  end
+
 
 #   factory :page do
 #     title { "MyString" }
