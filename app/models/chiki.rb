@@ -1,0 +1,2 @@
+class Chiki < ApplicationRecord
+end
